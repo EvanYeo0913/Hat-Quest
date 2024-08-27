@@ -1,0 +1,4 @@
+repository "CST-410-Project1@cst_410@cloud"
+  path "/"
+    br "/main"
+    co "/main"
